@@ -54,7 +54,7 @@ export const Projects = () => {
                             </div>
                         </div>
                         <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-cyan-500/30 hover:shadow-[0_2px_8px_rgba(20, 255, 200, 0.2)] transition">
-                            <img src="/images/.jpg" alt="Project 3" className="w-full h-48 object-cover rounded-lg mb-4"/>
+                            <img src="/images/.jpg" alt="Movie booking site" className="w-full h-48 object-cover rounded-lg mb-4"/>
                             <h3 className="text-2xl font-bold mb-2">Movie Ticket Booking site</h3>
                             <p className="text-gray-400 mb-4">Created Movie Ticket Booking site using php and phpmyadmin.</p>
                             <div className="flex flex-wrap gap-2 mb-4">
@@ -69,7 +69,7 @@ export const Projects = () => {
                             </div>
                         </div>
                         <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-cyan-500/30 hover:shadow-[0_2px_8px_rgba(20, 255, 200, 0.2)] transition">
-                            <img src="/Portfolio/graocoffee.jpg" alt="Project 3" className="w-full h-48 object-cover rounded-lg mb-4" />
+                            <img src="/Portfolio/graocoffee.jpg" alt="Project 5" className="w-full h-48 object-cover rounded-lg mb-4" />
                             <h3 className="text-2xl font-bold mb-2">GraoCoffee</h3>
                             <p className="text-gray-400 mb-4">Create the UI of Graocoffee eccomerce store.</p>
                             <div className="flex flex-wrap gap-2 mb-4">
@@ -84,7 +84,7 @@ export const Projects = () => {
                             </div>
                         </div>
                         <div className="p-6 rounded-xl border border-white/10 hover:translate-y-1 hover:border-cyan-500/30 hover:shadow-[0_2px_8px_rgba(20, 255, 200, 0.2)] transition">
-                            <img src="/Portfolio/Thegemstore.jpg" alt="Project 3" className="w-full h-48 object-cover rounded-lg mb-4" />
+                            <img src="/Portfolio/Thegemstore.jpg" alt="Project 6" className="w-full h-48 object-cover rounded-lg mb-4" />
                             <h3 className="text-2xl font-bold mb-2">Thegemstore</h3>
                             <p className="text-gray-400 mb-4">Create the UI of Thegemstore eccomerce store.</p>
                             <div className="flex flex-wrap gap-2 mb-4">
