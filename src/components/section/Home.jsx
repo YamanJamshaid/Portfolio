@@ -7,7 +7,7 @@ export const Home = () => {
             <RevealOnScroll>
             <div className="text-center z-10 pz-4 ">
                 <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-emerald-500 to-cyan-500/80 leading-right  bg-clip-text text-transparent">
-                    Hello, I'm <span >Usman Jamshaid</span>
+                    Hello, I'm Usman Jamshaid,<br></br><span className="text-6xl"> Web Developer</span>
                 </h1>
                 <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
                     Currently working as a Shopify Developer at Innovative Widget, 
